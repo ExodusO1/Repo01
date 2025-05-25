@@ -32,3 +32,4 @@ jobs:
         run: |
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/ExodusO1/Repo01.git
           npm run deploy
+          
