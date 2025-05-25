@@ -22,6 +22,6 @@ jobs:
         run: npm ci
 
       - name: Run your command
-        run: npm run deploy
+        run: |
           echo "Running my custom command..."
-          npm run my-command  # <-- replace this with your actual command
+          npm run deploy  # <-- replace this with your actual command
