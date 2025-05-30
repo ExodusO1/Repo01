@@ -89,7 +89,7 @@ function App() {
     <div className="App">
       {/* Navbar */}
       <header className="navbar">
-        <h2>My React App - Working</h2>
+        <h2>My React App - Working1</h2>
         <nav>
           <a href="/">Home</a>
           <a href="/">About</a>
