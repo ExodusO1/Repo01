@@ -17,7 +17,7 @@ function App() {
 
   const [isEditing, setIsEditing] = useState(false);
   const [currentUserId, setCurrentUserId] = useState(null);
-  
+
 
   // Fetch data from the API using useEffect
   useEffect(() => {
@@ -90,7 +90,7 @@ function App() {
     <div className="App">
       {/* Navbar */}
       <header className="navbar">
-        <h2>My React App - Working10</h2>
+        <h2>My React App - Working</h2>
         <nav>
           <a href="/">Home</a>
           <a href="/">About</a>
